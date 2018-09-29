@@ -1,0 +1,80 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "Cosmalog",
+				"abbreviation": "YZMTMKR",
+				"full": "YiazmatMaker",
+				"authors": [
+					"YiazmatMaker"
+				],
+				"version": "1.0.0",
+				"url": "https://www.dandwiki.com/wiki/Cosmalog_(5e_Race)",
+				"targetSchema": "1.0.0"
+			}
+		],
+		"dateAdded": 1537874753
+	},
+	"race": [
+		{
+			"name": "Cosmalog",
+			"source": "YiazmatMaker",
+			"ability": {
+				"con": 2,
+				"dex": 1
+			},
+			"size": "M",
+			"speed": 30,
+			"darkvision": 60,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Shrouded Star",
+					"entries": [
+						"When not wearing any armor or clothing, add +5 to your AC if in partial or complete darkness."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Cosmalog Speech",
+					"entries": [
+						"These people have no mouths to speak, but they can manipulate their clouds to form scripts. Amongst themselves, if they have the time, they may perform an interpretive dance that combines the control of the cloud and the (generally) slim form of the Cosmalog into a brilliant display of storytelling that may mesmerize audiences."
+					]
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+					],
+					"type": "entries"
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"You can 'speak', read, write and understand Common and Cosmalogal. See Cosmalog Speech for more info."
+					],
+					"type": "entries"
+				}
+			],
+			"fluff": {
+				"entries": [
+					"Physical Description
+Enshrouded in a cloud of self-supplied fog, the Cosmalog has a quite androgynous form, and this is reflected in their society. This cloud of theirs Is filled with thousands, if not millions, of shimmering little points. Their eyes, wide and of a single color that changes as they age, starting as a pale blue and deepening to a dark, bloodred. The Cosmalog can shift the clouds around as well as their color. However, this does not grant them any major camouflage amongst any backdrop, and most especially not the bright white lands of Tuhamaa Kuun.
+
+History
+The Cosmalog are quite... unnatural beings. They are not of this world.	These people arrived by way of a comet from a now long-forgotten world. When the comet crashed into the islands of Tuhamaa Kuun, the precursors of this race, hundreds of smoky seeds, began to quickly develop into the common form we see today. This comet is a holy symbol of theirs, and they see any new comets as a sign of their race, spreading across the world. However, their comet was actually a hunk of their former planet that had been destroyed in some god's destructive wave, and they are lucky to have survived. Once they landed, they kept close to each other, using the foggy emissions to keep warm in the frozen hellscape they had called home, and this is where they stayed for hundreds of years, only so rarely did an adventurer break off and venture north or east to the two other continents.
+
+Society
+The Cosmalog are generally a tribal people, hunting the frozen wastes of Tuhamaa Kuun (literally "Thousand Moons") in large hunting parties. These herds seemingly combine their cloudy masses and form a massive wall of smoke, with perhaps tens of hundreds of Cosmalog charging towards herds of moose and arctic ducks. These people are nomadic, routinely crossing across the islands to follow large herds across the massive archipelago. However, if any of their kind dies, they send off a small party packed with supplies to the volcano at the center of the largest island, Ahti Kuun. There, with their fallen comrade, now but a mere glimmering orb of galactic beauty, they send that orb, containing the very soul and essence of the Cosmalog into the volcano's core. In the dark of the night, as the volcano melts the glassy substance, a bright light surrounded by other common emissions carry the soul to the skies above, and it is in their minds that they believe that the deceased soul has risen to the heavens, becoming a part of the trillions of stars in the night sky."
+				]
+			},
+			"traitTags": [
+				
+			],
+			"languageTags": [
+				"Common",
+          "Other"
+			]
+		}
+	]
+ }
